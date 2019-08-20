@@ -17,13 +17,13 @@
                     <key>kind</key>
                     <string>display-image</string>
                     <key>url</key>
-                    <string>https://www.baidu.com</string>
+                    <string>https://raw.githubusercontent.com/yanningyang/yanningyang.github.io/master/creative-project/ResearchAPP-iOS/logo_80x80.png</string>
                 </dict>
                 <dict>
                     <key>kind</key>
                     <string>full-size-image</string>
                     <key>url</key>
-                    <string>https://www.baidu.com</string>
+                    <string>https://raw.githubusercontent.com/yanningyang/yanningyang.github.io/master/creative-project/ResearchAPP-iOS/logo_120x120.png</string>
                 </dict>
            </array><key>metadata</key>
            <dict>
