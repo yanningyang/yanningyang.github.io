@@ -1,44 +1,43 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
-<dict>
-   <key>items</key>
-   <array>
-       <dict>
-           <key>assets</key>
-           <array>
-               <dict>
-                   <key>kind</key>
-                   <string>software-package</string>
-                   <key>url</key>
-                   <string>https://vip.d0.baidupan.com/file/?B2FQblxtVWQHDldvVmNVOVJtBz9WW1YxAHQBYldqAHMJalFuDhIPC1ZQUyhUdlRkAHRXYlEgBjQKIFM3AClWPgdrUGNcM1UxB2BXOFYyVWxSOQc6VjlWZQApAW5XewBgCS9RYA46DzdWZVNaVGlUMQBnV2NRPwY2CjtTZwBrVm4HNFAhXGdVcgdsVzNWN1VmUjsHOlY9VmYANwEhV3sAcQk0UTQOYw9qVjlTKlQwVG0AdVdgUT4GKwo/UzMAPlZjB2ZQPlxnVWAHZVdlVjFVYlJpBzNWOlZgADUBMFc+ADIJPFEwDmYPOFY0U2dUNlRiAGhXYVFvBjYKI1M8ACxWNgchUHJcclVkByNXaFZmVWlSMQc6Vj5WZQA+ATJXLQB1CWBRaw42Dz1WPVM0VDVUYwBsV2BROQY2CjtTYABqVnkHIVByXHFVPAdgVy9WJFUyUmQHdVY0VmUAMgExVz0AMwk+UTcOYw9oVjNTI1R1VCUALVdvUT8GMQo7U2MAblZgBzdQP1w1VTk=</string>
-               </dict>
+    <dict>
+        <key>items</key>
+        <array>
+            <dict>
+                <key>assets</key>
+                <array>
+                    <dict>
+                        <key>kind</key>
+                        <string>software-package</string>
+                        <key>url</key>
+                        <string>https://raw.githubusercontent.com/yanningyang/yanningyang.github.io/master/creative-project/ResearchAPP-iOS/ResearchAPP-v1.0.0-build2019081801.ipa</string>
+                    </dict>
+                    <dict>
+                        <key>kind</key>
+                        <string>display-image</string>
+                        <key>url</key>
+                        <string>https://raw.githubusercontent.com/yanningyang/yanningyang.github.io/master/creative-project/ResearchAPP-iOS/logo_80x80.png</string>
+                    </dict>
+                    <dict>
+                        <key>kind</key>
+                        <string>full-size-image</string>
+                        <key>url</key>
+                        <string>https://raw.githubusercontent.com/yanningyang/yanningyang.github.io/master/creative-project/ResearchAPP-iOS/logo_120x120.png</string>
+                    </dict>
+                </array>
+                <key>metadata</key>
                 <dict>
+                    <key>bundle-identifier</key>
+                    <string>com.jac.iev.researchApp</string>
+                    <key>bundle-version</key>
+                    <string>1.0.0</string>
                     <key>kind</key>
-                    <string>display-image</string>
-                    <key>url</key>
-                    <string>https://raw.githubusercontent.com/yanningyang/yanningyang.github.io/master/creative-project/ResearchAPP-iOS/logo_80x80.png</string>
+                    <string>software</string>
+                    <key>title</key>
+                    <string>研发助手</string>
                 </dict>
-                <dict>
-                    <key>kind</key>
-                    <string>full-size-image</string>
-                    <key>url</key>
-                    <string>https://raw.githubusercontent.com/yanningyang/yanningyang.github.io/master/creative-project/ResearchAPP-iOS/logo_120x120.png</string>
-                </dict>
-           </array><key>metadata</key>
-           <dict>
-               <key>bundle-identifier</key>
-               <string>com.jac.iev.researchApp</string>
-               <key>bundle-version</key>
-               <string>1.0.0</string>
-               <key>kind</key>
-               <string>software</string>
-               <key>subtitle</key>
-               <string>研发助手</string>
-               <key>title</key>
-               <string>研发助手</string>
-           </dict>
-       </dict>
-   </array>
-</dict>
+            </dict>
+        </array>
+    </dict>
 </plist>
